@@ -2,4 +2,6 @@
 
 Hi, welcome to my homepage repository!
 
-Thanks [Colorlib](https://colorlib.com/) for the html frame.
+<br><br>
+
+*Thanks [Colorlib](https://colorlib.com/) for the HTML frame.*
