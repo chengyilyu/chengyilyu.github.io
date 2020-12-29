@@ -1,6 +1,8 @@
 # chengyilyu.github.io
 
-Hi, welcome to my homepage repository!
+Hi, this is my homepage repository!
+
+Welcome to my homepage: [chengyilyu.github.io](https://chengyilyu.github.io/)
 
 <br>
 
