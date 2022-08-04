@@ -6,4 +6,4 @@ Welcome to my homepage: [chengyilyu.github.io](https://chengyilyu.github.io/)
 
 <br>
 
-*Thanks [Colorlib](https://colorlib.com/) for the HTML frame.*
+*Thanks [Colorlib](https://colorlib.com/) for the HTML frame. Thanks icons from [academicons](https://github.com/jpswalsh/academicons)* 
