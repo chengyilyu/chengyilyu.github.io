@@ -4,6 +4,8 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -460,18 +462,21 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
+  @media (max-width: 575.98px) { ... }
   @media (min-width: 576px) {
     .container {
-      max-width: 540px; } }
+      max-width: 767.98px; } }
   @media (min-width: 768px) {
     .container {
-      max-width: 720px; } }
+      max-width: 991.98px; } }
   @media (min-width: 992px) {
     .container {
-      max-width: 960px; } }
-  @media (min-width: 1200px) {
-    .container {
-      max-width: 1140px; } }
+      max-width: 1199.98px; } }
+      @media (min-width: 1200px) {
+        .container {
+          max-width: 1499.98px; } }
+  @media (min-width: 1500px) {...
+  }
 
 .container-fluid {
   width: 100%;
