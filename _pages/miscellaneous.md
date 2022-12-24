@@ -1,10 +1,8 @@
 ---
-permalink: /
-#title: "Welcome!"
-#excerpt: "About me"
-#author_profile: true
-redirect_from:
-  - /miscellaneous/
+layout: archive
+title: ""
+permalink: /miscellaneous/
+author_profile: true
 ---
 
 Under construction
