@@ -28,12 +28,12 @@ Working Papers
 Teaching Experiences
 ------
 Sole Instructor, University of Colorado Boulder.
-* MGMT 4120 - Managing Business Processes (Junior/Senior Level), Spring 2022, Fall 2022.
+* MGMT 4120 - Managing Business Processes (Junior/Senior Level), Spring 2022, Fall 2022.  
 Graduate Part-Time Instructor Teaching Recognition Award
 
 Industry Experience
 ------
-* Research Intern, Oracle Labs, 2021 summer.
+* Research Intern, Oracle Labs, 2021 summer.  
 The Modeling, Simulation and Optimization research group.
 
 Conferences
@@ -47,7 +47,7 @@ Conferences
 
 Honors & Awards
 ------
-Graduate Part-Time Instructor Teaching Recognition Award, University of Colorado Boulder, 2022.
-University Fellowship Award, University of Colorado Boulder, 2020 - 2022.
-Outstanding Graduate Award, USTC, 2017.
-Outstanding Student Award, USTC, 2014 - 2016.
+* Graduate Part-Time Instructor Teaching Recognition Award, University of Colorado Boulder, 2022.
+* University Fellowship Award, University of Colorado Boulder, 2020 - 2022.
+* Outstanding Graduate Award, USTC, 2017.
+* Outstanding Student Award, USTC, 2014 - 2016.
