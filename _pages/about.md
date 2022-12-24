@@ -16,7 +16,7 @@ Education
 Ph.D. student, Operations Management, Leeds School of Business, 2020 - Present.
 * **The Pennsylvania State University**, State College, PA, USA.  
 M.S. in Industrial Engineering & Operations Research, 2020.
-* **University of Science and Technology of China**(USTC), Hefei, Anhui, China.  
+* **University of Science and Technology of China** (USTC), Hefei, Anhui, China.  
 B.S. in Mathematics, 2017.
 
 Working Papers
