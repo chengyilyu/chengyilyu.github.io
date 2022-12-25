@@ -13,7 +13,7 @@ I’m a third-year Ph.D. candidate in Leeds School of Business at University of 
 Education
 ------
 * University of Colorado Boulder, Boulder, CO, USA.  
-Ph.D. student, Operations Management, Leeds School of Business, 2020 - Present.
+Ph.D. candidate, Operations Management, Leeds School of Business, 2020 - Present.
 * The Pennsylvania State University, State College, PA, USA.  
 M.S. in Industrial Engineering & Operations Research, 2020.
 * University of Science and Technology of China (USTC), Hefei, Anhui, China.  
