@@ -29,7 +29,7 @@ Teaching Experiences
 ------
 * Sole Instructor, University of Colorado Boulder.
     * MGMT 4120 - Managing Business Processes (Junior/Senior Level), Spring 2022, Fall 2022.
-        * Graduate Part-Time Instructor Teaching Recognition Award  
+        * Graduate Part-Time Instructor Teaching Excellence Award  
         *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."*
 
 Industry Experience
@@ -48,7 +48,7 @@ Conferences
 
 Honors & Awards
 ------
-* Graduate Part-Time Instructor Teaching Recognition Award, University of Colorado Boulder, 2022.
+* Graduate Part-Time Instructor Teaching Excellence Award, University of Colorado Boulder, 2022.
 * University Fellowship Award, University of Colorado Boulder, 2020 - 2022.
 * Outstanding Graduate Award, USTC, 2017.
 * Outstanding Student Award, USTC, 2014 - 2016.
