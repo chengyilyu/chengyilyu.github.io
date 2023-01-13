@@ -29,8 +29,8 @@ Teaching Experiences
 ------
 * Sole Instructor, University of Colorado Boulder.
     * MGMT 4120 - Managing Business Processes (Junior/Senior Level), Spring 2022, Fall 2022.
-        * Graduate Part-Time Instructor Teaching Excellence Award  
-        *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."*
+        * Graduate Part-Time Instructor Teaching Excellence Award (University Level).
+        <!-- *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."* -->
 
 Industry Experience
 ------
