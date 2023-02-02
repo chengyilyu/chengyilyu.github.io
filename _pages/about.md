@@ -19,7 +19,7 @@ M.S. in Industrial Engineering & Operations Research, 2020.
 * University of Science and Technology of China (USTC), Hefei, Anhui, China.  
 B.S. in Mathematics, 2017.
 
-Working Papers
+Research Papers
 ------
 1. Chengyi Lyu, Stefanus Jasin, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818886) Under Major revision at ***Manufacturing & Service Operations Management***.
 2. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Under Major revision at ***Operations Research.***
