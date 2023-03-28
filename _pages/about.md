@@ -35,6 +35,8 @@ Teaching Experiences
 
 Industry Experience
 ------
+* Research Scientist Intern, The Retail Pricing Science and Research, Amazon, 2023 summer.  
+
 * Research Intern, Oracle Labs, 2021 summer.  
 The Modeling, Simulation and Optimization research group.
 
