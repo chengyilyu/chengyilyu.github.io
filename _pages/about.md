@@ -35,7 +35,7 @@ Teaching Experiences
         * Graduate Part-Time Instructor Teaching Excellence Award (University Level).
         <!-- *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."* -->
 
-Industry Experience
+Industry Experiences
 ------
 <!-- * Research Scientist Intern, The Retail Pricing Science and Research Team, Amazon, 2023 summer.   -->
 
