@@ -24,8 +24,10 @@ Research Papers
 1. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Under Minor revision at ***Operations Research.***
 2. Chengyi Lyu, Stefanus Jasin, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818886) Under Major revision at ***Manufacturing & Service Operations Management.***
 * Finalist in POMS-HK 2023 Best Student Paper Competition
-3. Chengyi Lyu, Stefanus Jasin, Andrew Vakhutinsky, and Huanan Zhang. Assortment and Price Optimization under MNL Model with Price Range Effect. Working paper.
-4. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Work in progress.
+3. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Work in progress.
+4. Stefanus Jasin,  Chengyi Lyu, Huanan Zhang, and Andrew Vakhutinsky. Assortment and Price Optimization under MNL Model with Price Range Effect. Working paper.
+
+
 
 
 Teaching Experiences
