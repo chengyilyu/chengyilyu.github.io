@@ -25,7 +25,7 @@ Research Papers
 2. Chengyi Lyu, Stefanus Jasin, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818886) Under Major revision at ***Manufacturing & Service Operations Management.***
 * Finalist in POMS-HK 2023 Best Student Paper Competition
 3. Stefanus Jasin,  Chengyi Lyu, Huanan Zhang, and Andrew Vakhutinsky. [Assortment and Price Optimization under MNL Model with Price Range Effect.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433708) Working paper.
-4. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Work in progress.
+4. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
 
 
 
