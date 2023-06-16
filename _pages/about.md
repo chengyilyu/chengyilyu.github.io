@@ -45,7 +45,7 @@ Industry Experiences
 
 * Research Scientist Intern, The Modeling, Simulation and Optimization Research Team, Oracle, 2021 summer.  
 
-Conferences
+Conferences & Talks
 ------
 * Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.
     <!-- * POMS 2023,  -->
