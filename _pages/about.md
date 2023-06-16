@@ -49,10 +49,9 @@ Conferences
 ------
 * Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.
     <!-- * POMS 2023,  -->
-    * INFORMS 2022, Indianapolis, IN.
-    * INFORMS 2021, Virtual.
+    * INFORMS 2021, INFORMS 2022, POMS 2023, MSOM SIG 2023.
 * Efficient UCB-type learning algorithms for lost-sales inventory system with lead times and censored demand.
-    * INFORMS 2020, Virtual.
+    * INFORMS 2020.
 
 Honors & Awards
 ------
