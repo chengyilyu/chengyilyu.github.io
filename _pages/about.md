@@ -22,7 +22,7 @@ B.S. in Mathematics, 2017.
 Research Papers
 ------
 1. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Under Minor revision at ***Operations Research.***
-2. Chengyi Lyu, Stefanus Jasin, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3818886) Accepted at ***Manufacturing & Service Operations Management.***
+2. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) Accepted at ***Manufacturing & Service Operations Management.***
 * Finalist in POMS-HK 2023 Best Student Paper Competition.
 * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
 3. Stefanus Jasin,  Chengyi Lyu, Huanan Zhang, and Andrew Vakhutinsky. [Assortment and Price Optimization under MNL Model with Price Range Effect.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433708) Working paper.
