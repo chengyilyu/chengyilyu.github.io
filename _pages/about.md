@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year Ph.D. candidate in Leeds School of Business at University of Colorado Boulder. I’m honored to be advised by [Prof. Huanan Zhang](http://huananzhang.mystrikingly.com/) and [Prof. Dan Zhang](http://www.danzhang.com/). My research interests lie across many topics: approximation algorithms, online learning algorithms, and their applications in revenue management and supply chain management.
+I’m a fourth-year Ph.D. candidate in Leeds School of Business at University of Colorado Boulder. I’m honored to be advised by [Prof. Huanan Zhang](http://huananzhang.mystrikingly.com/) and [Prof. Dan Zhang](http://www.danzhang.com/). My research interests lie across many topics: approximation algorithms, online learning algorithms, and their applications in revenue management and supply chain management.
 
 Education
 ------
