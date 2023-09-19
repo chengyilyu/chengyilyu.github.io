@@ -50,8 +50,8 @@ Conferences & Talks
 * Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.
     <!-- * POMS 2023,  -->
     * INFORMS 2021, INFORMS 2022, POMS 2023.
-<!-- * Assortment and Price Optimization under MNL Model with Price Range Effect.
-  * ACM EC Workshop, 2022. -->
+<!-- * Assortment and Price Optimization under MNL Model with Price Range Effect. -->
+  <!-- * ACM EC Workshop, 2022. -->
 * Efficient UCB-type learning algorithms for lost-sales inventory system with lead times and censored demand.
     * INFORMS 2020.
 
