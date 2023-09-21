@@ -25,10 +25,7 @@ Research Papers
 2. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang (alphabetically ordered). [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) Accepted at ***Manufacturing & Service Operations Management.***
   * Finalist in POMS-HK 2023 Best Student Paper Competition.
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
-3. Stefanus Jasin,  Chengyi Lyu, Huanan Zhang, and Andrew Vakhutinsky. [Assortment and Price Optimization under MNL Model with Price Range Effect.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433708) Working paper.
-4. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
-
-
+3. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
 
 
 
@@ -48,10 +45,7 @@ Industry Experiences
 Conferences & Talks
 ------
 * Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.
-    <!-- * POMS 2023,  -->
     * INFORMS 2021, INFORMS 2022, POMS 2023.
-* Assortment and Price Optimization under MNL Model with Price Range Effect. 
-  * ACM EC Workshop, 2022.
 * Efficient UCB-type learning algorithms for lost-sales inventory system with lead times and censored demand.
     * INFORMS 2020.
 
