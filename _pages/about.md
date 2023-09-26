@@ -21,19 +21,18 @@ B.S. in Mathematics, 2017.
 
 Research Papers
 ------
-1. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Under Minor revision at ***Operations Research.***
-2. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang (alphabetically ordered). [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) Accepted at ***Manufacturing & Service Operations Management.***
+1. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang (alphabetically ordered). [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) Forthcoming at ***Manufacturing & Service Operations Management.***
   * Finalist in POMS-HK 2023 Best Student Paper Competition.
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
+2. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Under Minor revision at ***Operations Research.***
 3. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
-
-
+4. Stefanus Jasin, Chengyi Lyu, Huanan Zhang, Andrew Vakhutinsky. Assortment and Price Optimization under MNL Model with Price Range Effect. Working paper.
 
 Teaching Experiences
 ------
 * Sole Instructor, University of Colorado Boulder.
-    * MGMT 4120 - Managing Business Processes (Undergraduate), Spring 2022, Fall 2022.
-        * Graduate Part-Time Instructor Teaching Recognition Award (University Level).
+    * MGMT 4120 - Managing Business Processes (Undergraduate), Spring 2022 and Fall 2022.
+        * Graduate Part-Time Instructor Teaching Recognition Award (university award).
         <!-- *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."* -->
 
 Industry Experiences
@@ -45,13 +44,18 @@ Industry Experiences
 Conferences & Talks
 ------
 * Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.
-    * INFORMS 2021, INFORMS 2022, POMS 2023.
+    * INFORMS 2021, INFORMS 2022, POMS-HK 2023, POMS 2023.
+* Assortment and Price Optimization under MNL Model with Price Range Effect
+    * ACM Conference on Economics and Computation Workshop, 2022.
 * Efficient UCB-type learning algorithms for lost-sales inventory system with lead times and censored demand.
     * INFORMS 2020.
 
 Honors & Awards
 ------
-* Graduate Part-Time Instructor Teaching Recognition Award, University of Colorado Boulder, 2022.
-* University Fellowship Award, University of Colorado Boulder, 2020 - 2022.
-* Outstanding Graduate Award, USTC, 2017.
-* Outstanding Student Award, USTC, 2014 - 2016.
+* Finalist, POMS-HK 2023 Best Student Paper Competition, 2023
+* Graduate Part-Time Instructor Teaching Recognition Award, University of Colorado Boulder, 2022
+* Gerald Hart Research Fellowship, University of Colorado Boulder, 2022
+* University Fellowship Award, University of Colorado Boulder, 2020 - 2022
+* PhD Fellowship, University of Colorado Boulder, 2020 - 2024
+* Outstanding Graduate Award, USTC, 2017
+* Outstanding Student Award, USTC, 2014 - 2016
