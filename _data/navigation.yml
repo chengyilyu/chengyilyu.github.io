@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "About"
+  - title: ""
     url: /mainpage/
   
   # - title: "Miscellaneous"
   #   url: /miscellaneous/
    
-   # - title: "CV"
-   #  url: /cv/
+  - title: "CV"
+    url: /cv/
 
   # - title: "Teaching"
   #   url: /teaching/
