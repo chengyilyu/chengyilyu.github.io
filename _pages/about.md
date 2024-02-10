@@ -11,6 +11,7 @@ redirect_from:
 I’m a Ph.D. candidate in Leeds School of Business at University of Colorado Boulder. I am advised by [Prof. Huanan Zhang](http://huananzhang.mystrikingly.com/) and [Prof. Dan Zhang](http://www.danzhang.com/). My research interests include stochastic modeling and optimization, approximation algorithms, online learning algorithms, and their applications in service operations, revenue management, and supply chain management. Previously, I received my M.S. in Industrial Engineering & Operations Research from the Pennsylvania State University, and my B.S. in Mathematics from University of Science and Technology of China. 
 
 
+
 Research Papers
 ------
 1. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang (alphabetically ordered). [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024.
