@@ -10,6 +10,7 @@ redirect_from:
 
 I’m a Ph.D. candidate in Leeds School of Business at University of Colorado Boulder. I am advised by [Prof. Huanan Zhang](http://huananzhang.mystrikingly.com/) and [Prof. Dan Zhang](http://www.danzhang.com/). My research interests include stochastic modeling and optimization, approximation algorithms, online learning algorithms, and their applications in service operations, revenue management, and supply chain management.
 
+
 Education
 ------
 * University of Colorado Boulder, Boulder, CO, USA.  
