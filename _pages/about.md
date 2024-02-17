@@ -10,13 +10,13 @@ redirect_from:
 I’m a Ph.D. candidate in Leeds School of Business at University of Colorado Boulder. I am advised by [Prof. Huanan Zhang](http://huananzhang.mystrikingly.com/) and [Prof. Dan Zhang](http://www.danzhang.com/). My research interests include stochastic modeling and optimization, approximation algorithms, online learning algorithms, and their applications in service operations, revenue management, and supply chain management. Previously, I received my M.S. in Industrial Engineering & Operations Research from the Pennsylvania State University, and my B.S. in Mathematics from University of Science and Technology of China.
 
 
-Research Papers
+Publications & Working Papers
 ------
 1. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang (alphabetically ordered). [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024.
   * Finalist in POMS-HK 2023 Best Student Paper Competition.
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
 2. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Accepted at *Operations Research.*
-3. Chengyi Lyu, Dan Zhang, and Huanan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
+3. Chengyi Lyu, Dan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
 4. Stefanus Jasin, Chengyi Lyu, Huanan Zhang, Andrew Vakhutinsky. Assortment and Price Optimization under MNL Model with Price Range Effect. Working paper.
 
 Teaching Experiences
