@@ -17,7 +17,7 @@ Research Papers
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
 2. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3944354) Accepted at *Operations Research.*
 3. Chengyi Lyu, Dan Zhang. Customer Reward Programs for Two-sided Markets. Working Paper.
-4. Stefanus Jasin, Chengyi Lyu, Huanan Zhang, and Andrew Vakhutinsky. Assortment and Price Optimization under MNL Model with Price Range Effect. Working paper.
+<!-- 4. Stefanus Jasin, Chengyi Lyu, Huanan Zhang, and Andrew Vakhutinsky. Assortment and Price Optimization under MNL Model with Price Range Effect. Working paper. -->
 
 Teaching Experiences
 ------
