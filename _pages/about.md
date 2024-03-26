@@ -13,7 +13,7 @@ I’m a Ph.D. candidate in Leeds School of Business at University of Colorado Bo
 Research Papers
 ------
 1. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024.
-  * Finalist in POMS-HK 2023 Best Student Paper Competition.
+  * Finalist in POMS-HK 2023 Best Student Paper Competition. (Authors are listed alphabetically)
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
 2. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://pubsonline.informs.org/doi/10.1287/opre.2022.0273) Accepted at *Operations Research.*
 3. Chengyi Lyu, Dan Zhang. [Customer Reward Programs for Two-sided Markets.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772463) Under review at *Management Science*.
