@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. candidate in Leeds School of Business at University of Colorado Boulder, advised by [Prof. Dan Zhang](https://danzhang.com/). My research interests include revenue management and pricing, service operations, and supply chain management by applying methods such as stochastic modeling & optimization and data-driven optimization. Previously, I received my M.S. in Industrial Engineering & Operations Research from the Pennsylvania State University, and my B.S. in Mathematics from University of Science and Technology of China.
+I’m a Ph.D. candidate in Leeds School of Business at University of Colorado Boulder, advised by [Prof. Dan Zhang](https://danzhang.com/). My research interests include revenue management and pricing, service operations, and supply chain management by applying methods such as stochastic modeling and optimization and data-driven optimization. Previously, I received my M.S. in Industrial Engineering & Operations Research from the Pennsylvania State University, and my B.S. in Mathematics from University of Science and Technology of China.
 
 
 Research Papers
@@ -22,7 +22,7 @@ Research Papers
 Teaching Experiences
 ------
 * Sole Instructor, University of Colorado Boulder.
-    * MGMT 4120 - Managing Business Processes (Undergraduate), Spring 2022 and Fall 2022.
+    * MGMT 4120 - Managing Business Processes (undergraduate), Spring 2022 and Fall 2022.
         * Graduate Part-Time Instructor Teaching Recognition Award (university award).
         <!-- *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."* -->
 
