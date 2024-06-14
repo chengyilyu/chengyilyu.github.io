@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a final-year Ph.D. candidate in Leeds School of Business at University of Colorado Boulder, advised by [Prof. Dan Zhang](https://danzhang.com/). My research interests include revenue management and pricing, service operations, and supply chain management by applying methods such as stochastic modeling and data-driven optimization. Previously, I received my M.S. in Industrial Engineering & Operations Research from the Pennsylvania State University, and my B.S. in Mathematics from University of Science and Technology of China.
 
-**I am on the 2024-2025 academic job market.**
+<!-- **I am on the 2024-2025 academic job market.** -->
 
 
 Research Papers
