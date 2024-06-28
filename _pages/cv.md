@@ -1,12 +1,9 @@
 ---
-layout: archive
-title: ""
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: CV
+nav: false
+cv_pdf: ChengyiLyu_CV.pdf
 ---
 
-{% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/ChengyiLyu_CV.pdf" width="600" height="700" type='application/pdf'> 
