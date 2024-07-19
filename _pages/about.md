@@ -26,14 +26,14 @@ Work in Progress
 * Assortment Optimization for an e-Commerce Platform and Third-Party Retailers, with Ozge Sahin and Dan Zhang.
 
 
-Teaching Experiences
+Teaching Experience
 ------
 * Sole Instructor, University of Colorado Boulder.
     * MGMT 4120 - Managing Business Processes (undergraduate), Spring 2022 and Fall 2022.
         * Graduate Part-Time Instructor Teaching Recognition Award (university award).
         <!-- *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."* -->
 
-Industry Experiences
+Industry Experience
 ------
 * Research Scientist Intern, The Retail Pricing Science and Research Team, Amazon, 2023 summer.  
 
