@@ -12,13 +12,19 @@ I’m a final-year Ph.D. candidate in Leeds School of Business at University of 
 **I am currently on the 2024-2025 academic job market.**
 
 
-Research Papers
+Publications & Preprints
 ------
-1. Chengyi Lyu and Dan Zhang. [Customer Reward Programs for Two-Sided Markets.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772463) Reject and Resubmit at *Management Science*.
-2. Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://pubsonline.informs.org/doi/10.1287/opre.2022.0273) Accepted at *Operations Research.*
-3. Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024. (Authors are listed alphabetically)
+* Chengyi Lyu and Dan Zhang. [Customer Reward Programs for Two-Sided Markets.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772463) Reject and Resubmit at *Management Science*.
+* Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://pubsonline.informs.org/doi/10.1287/opre.2022.0273) Accepted at *Operations Research.*
+* Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024. (Authors are listed alphabetically)
   * Finalist in POMS-HK 2023 Best Student Paper Competition. 
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
+
+Work in Progress
+------
+* An Analysis of Quest Reward Programs, with Dan Zhang.
+* Assortment Optimization for an e-Commerce Platform and Third-Party Retailers, with Ozge Sahin and Dan Zhang.
+
 
 Teaching Experiences
 ------
