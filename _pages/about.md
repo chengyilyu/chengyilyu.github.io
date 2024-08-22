@@ -23,7 +23,7 @@ Publications & Preprints
 Work in Progress
 ------
 * An Analysis of Quest Reward Programs, with Dan Zhang.
-* Assortment Optimization for an e-Commerce Platform and Third-Party Retailers, with Ozge Sahin and Dan Zhang.
+* Assortment Optimization for an E-Commerce Platform and Third-Party Retailers, with Ozge Sahin and Dan Zhang.
 
 
 Teaching Experience
