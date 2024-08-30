@@ -16,7 +16,7 @@ Publications & Preprints
 ------
 * Chengyi Lyu and Dan Zhang. [Customer Reward Programs for Two-Sided Markets.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772463) Reject and Resubmit at *Management Science*.
 * Chengyi Lyu, Huanan Zhang, and Linwei Xin. [UCB-Type Learning Algorithms with Kaplan-Meier Estimator for Lost-Sales Inventory Models with Lead Times.](https://pubsonline.informs.org/doi/10.1287/opre.2022.0273) *Operations Research*, Vol. 72(4), 1317–1332, 2024.
-* Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024. (Authors are listed alphabetically)
+* Stefanus Jasin, Chengyi Lyu, Sajjad Najafi, and Huanan Zhang. [Assortment Optimization with Multi-Item Basket Purchase under Multivariate MNL Model.](https://pubsonline.informs.org/doi/10.1287/msom.2021.0526) *Manufacturing & Service Operations Management*, Vol. 26(1), 215–232, 2024. (Authors are listed alphabetically.)
   * Finalist in POMS-HK 2023 Best Student Paper Competition. 
   * Selected for presentation in the MSOM Supply Chain Management SIG, 2023.
 
@@ -29,8 +29,9 @@ Work in Progress
 Teaching Experience
 ------
 * Sole Instructor, University of Colorado Boulder.
-    * MGMT 4120 - Managing Business Processes (undergraduate), Spring 2022 and Fall 2022.
-        * Graduate Part-Time Instructor Teaching Recognition Award (university award).
+    * Principles of Operations Management (Undergraduate), Summer 2024
+    * Managing Business Processes (Undergraduate), Spring 2022 and Fall 2022
+        * Graduate Instructors Teaching Recognition Award
         <!-- *"These awards recognize excellent graduate student teachers for their hard work, creativity, and continued excellence in teaching."* -->
 
 Industry Experience
